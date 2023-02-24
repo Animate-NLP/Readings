@@ -18,3 +18,7 @@ https://arxiv.org/pdf/1406.1078v3.pdf
 ## Show, attention and tell
 
 https://arxiv.org/pdf/1502.03044v2.pdf
+
+## Attentino and Augmented Nerual Networks
+
+https://distill.pub/2016/augmented-rnns/
