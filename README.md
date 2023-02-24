@@ -11,6 +11,10 @@ A detailed introduction to LSTM Net
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
-# 2014-GRU paper
+## 2014-GRU paper
 
 https://arxiv.org/pdf/1406.1078v3.pdf
+
+## Show, attention and tell
+
+https://arxiv.org/pdf/1502.03044v2.pdf
